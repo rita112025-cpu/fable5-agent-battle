@@ -1,0 +1,4 @@
+.tmp/
+.worktrees/
+*.log
+acceptance-result*.json

@@ -1,0 +1,9 @@
+scripts/acceptance.sh: PASS
+scripts/bisect-run.sh: PASS
+scripts/bisect-test.sh: PASS
+scripts/fable.sh: PASS
+scripts/prepare-test-deps.sh: PASS
+scripts/start-test-env.sh: PASS
+scripts/stop-test-env.sh: PASS
+scripts/worktree-test.sh: PASS
+tests/sandbox/final-state.sh: PASS
